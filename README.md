@@ -89,9 +89,9 @@ Print a Google Maps link if location is found
 
 📝 Example Output
 
-===============================
-📸 Image Information Collector
-===============================
+# ===============================
+# 📸 Image Information Collector
+# ===============================
 
 Enter image path: /sdcard/Download/test.jpg
 
