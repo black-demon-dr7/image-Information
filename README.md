@@ -53,21 +53,25 @@ sudo apt install tesseract-ocr-ara -y
 📜 Script Setup
 
 Clone this repository and give the script permission to run:
-
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+```
+git clone https://github.com/black-demon-dr7/image-Information.git
+```
+```
+cd image-information
+```
+```
 chmod +x image_info.sh
-
+```
 
 ---
 
 🚀 Usage
-
+```
 ./image_info.sh
-
+```
 Then enter the full path to your image when prompted, for example:
 
-/sdcard/Download/image.jpg
+```/sdcard/Download/image.jpg```
 
 The script will:
 
@@ -122,9 +126,9 @@ TinEye
 
 🧑‍💻 Author
 
-Developed by [Your Name]
+Developed by Black Demon
 
-📂 GitHub: https://github.com/YOUR_USERNAME
+📂 GitHub: [Black Demon](https://github.com/black-demon-dr7)
 
 
 
